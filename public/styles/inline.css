@@ -160,7 +160,7 @@ body {
 
 @media all and (display-mode: standalone) {
     body {
-      background-color: yellow;
+      //background-color: yellow;
     }
   }
 
